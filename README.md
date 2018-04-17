@@ -1,5 +1,5 @@
 # The Best of Coding Music
-> Without music, codding would be a mistake. 　　　　　——Lu Xun
+> Without music, coding would be a mistake. 　　　　　——Lu Xun
 ## The Best of Coding Music 1
 - [Netease Cloud Music](http://music.163.com/#/m/playlist?id=2189234588)
 ```
