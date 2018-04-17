@@ -1,5 +1,10 @@
 # The Best of Coding Music
 > Without music, coding would be a mistake. 　　　　　——Lu Xun
+## Usage
+1. Click the play list link below.
+2. Switch to random mode.
+3. Play!🎧
+
 ## The Best of Coding Music 1
 - [Netease Cloud Music](http://music.163.com/#/m/playlist?id=2189234588)
 ```
